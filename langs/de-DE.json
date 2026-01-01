@@ -13,6 +13,16 @@
             "glow-enabled": true,
             "glow-col": 98,
             "death-effect-id": 20
+        },
+        {
+            "username": "MisterGrifster",
+            "account-id": 24810638,
+            "icon-id": 252,
+            "primary-col": 47,
+            "secondary-col": 3,
+            "glow-enabled": true,
+            "glow-col": 12,
+            "death-effect-id": 15
         }
     ],
     "font": "lexend.fnt",
@@ -74,10 +84,10 @@
         },
         "font-select": {
             "title": "Schrift auswählen",
-            "japanese-supported": "This font does not support Hiragana, Katakana and Kanji (Japanese)",
-            "russian-supported": "This font does not support the Cyrillic writing system (Russian)",
-            "korean-supported": "This font does not support the Hangul writing system (Korean)",
-            "chinese-supported": "This font does not support the Hanzi writing system (Chinese)"
+            "japanese-supported": "Diese Schriftart unterstützt keine Hiragana, Katakana und Kanji (Japanisch)",
+            "russian-supported": "Diese Schriftart unterstützt das kyrillische Schriftsystem nicht (Russisch)",
+            "korean-supported": "Diese Schriftart unterstützt das Hangul-Schriftsystem nicht (Koreanisch)",
+            "chinese-supported": "Diese Schriftart unterstützt das Hanzi-Schriftsystem nicht (Chinesisch)"
         },
         "labels": {
             "cheat-indicator-label": "Cheat Indikator",
